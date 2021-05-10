@@ -1,0 +1,29 @@
+tr{
+    background-color: cadetblue;
+}
+.start{
+    background-color: goldenrod;
+}
+.second{
+    background-color: darkturquoise;
+}
+.five{
+    background-color: navajowhite;
+}
+.sn{
+    color:rgb(107, 69, 47);
+    font-size: 25px;
+
+}
+.html{
+    color: rgb(107, 69, 47);
+    font-size: 25px;
+}
+.description{
+    color: rgb(107, 69, 47);
+    font-size: 25px;
+}
+.example{
+    color: rgb(107, 69, 47);
+    font-size: 25px;
+}
